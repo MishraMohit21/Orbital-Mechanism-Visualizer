@@ -1,0 +1,98 @@
+# Ignore IDE specific files and directories
+
+# Visual Studio Code
+.vscode/
+test/
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+
+# Visual Studio
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+.nb-gradle/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-recommenders
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# MonoDevelop
+*.userprefs
+
+# Ignore all executable files
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.bin
+*.run
+*.elf
+*.ppm
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache
+.vs/
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# C++ specific files
+*.obj
+*.pdb
+*.pch
+*.ifc
+*.rsp
+*.lib
+
+# Optional: Ignore IntelliSense files (can be large)
+*.i*
